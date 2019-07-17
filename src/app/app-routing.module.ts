@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { homedir } from 'os';
+// import { homedir } from 'os';
 import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 
